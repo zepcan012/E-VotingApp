@@ -1,0 +1,25 @@
+mat-toolbar {
+  justify-content: space-between;
+}
+
+.content {
+  padding: 32px;
+}
+
+footer {
+  display: block;
+  /*position: absolute;*/
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(50, 72, 200, 0.871);
+}
+
+a {
+  color: whitesmoke;
+}
+
+.footer-text {
+  color: whitesmoke;
+  text-align: center;
+}

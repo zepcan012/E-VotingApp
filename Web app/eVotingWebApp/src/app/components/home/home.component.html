@@ -1,0 +1,12 @@
+<div class = "home-text">
+    <h1 *ngIf="user$ | async as user"><strong>Welcome to E-Voting App, {{user.displayName}}!</strong></h1>
+</div>
+<br><br>
+<div class="message">
+    {{ message | async | json }}
+</div>
+
+<br><br><br>
+<div class=" home-image">
+    <img src="assets/images/online.png" alt="Vote online">
+</div>
