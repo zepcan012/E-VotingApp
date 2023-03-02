@@ -19,8 +19,3 @@ https://fcm.googleapis.com/fcm/send
 
 te odabrati POST prije slanja push notifikacije.
 
-Linkovi tutorijala koje sam pratila:
-
-https://medium.com/mighty-ghost-hack/angular-8-firebase-cloud-messaging-push-notifications-cc80d9b36f82
-
-https://www.youtube.com/watch?v=ODE9l1c3ujY
